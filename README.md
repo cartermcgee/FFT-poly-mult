@@ -1,2 +1,2 @@
 # FFT-poly-mult
-Tests runtime of FFT polynomial multiplication vs double for loop polynomial multiplication
+Tests the runtime of polynomial multiplication using the FFT algorithm, double for loop algorithm, and the 3 subproblems algorithm.
